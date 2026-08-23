@@ -1,0 +1,13 @@
+/* Add CSS Styling */
+
+/* Las propiedades que necesitas agregar son: */
+
+/* Solo los p elementos que sean descendientes del div elemento deben tener un fondo amarillo, 
+texto rojo, un tamaño de fuente de 20px y estar centrados. */
+
+div  p {
+    color:red;
+    background-color: #f5f58d;
+    font-size: 20px;
+    text-align: center;
+}
